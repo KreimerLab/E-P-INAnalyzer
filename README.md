@@ -1,5 +1,5 @@
 # E-P-INAnalyzer
-E-P-INAnalyzer is a Python-based toolkit for understanding enhancer-promoter interaction networks from RNA-Seq, ATAC-Seq, and ChIP-Seq datasets. E-P-INAnalzyer allows researchers to reveal substructures, integrate TFs, locate disease-associated variation, and perform enrichment analyses on enhancer-promoter interaction networks (E-P-INs). 
+E-P-INAnalyzer is a Python-based toolkit for understanding enhancer-promoter interaction networks from RNA-Seq, ATAC-Seq, and ChIP-Seq datasets. E-P-INAnalzyer allows researchers to reveal substructures, integrate transcription factors, locate disease-associated variation, and perform enrichment analyses on enhancer-promoter interaction networks.
 
 E-P-INAnalzyer can be installed using this GitHub repository: 
 ```
